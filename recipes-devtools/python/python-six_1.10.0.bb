@@ -1,5 +1,5 @@
 DESCRIPTION = "Python 2 and 3 compatibility utilities"
-HOMEPAGE = "http://pypi.python.org/pypi/six/"
+HOMEPAGE = "https://pypi.python.org/pypi/six/"
 SECTION = "devel/python"
 LICENSE = "MIT"
 LIC_FILES_CHKSUM = "file://LICENSE;md5=6f00d4a50713fa859858dd9abaa35b21"
